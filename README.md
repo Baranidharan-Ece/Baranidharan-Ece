@@ -59,6 +59,7 @@ I enjoy building scalable web applications, solving Data Structures & Algorithms
 
 - GitHub: https://github.com/Baranidharan-Ece
 - LinkedIn: https://www.linkedin.com/in/baranidharan-sanmugam-b6a3532a5/
+- LeetCode: https://leetcode.com/u/BARANIDHARAN-ECE/
 
 ---
 
