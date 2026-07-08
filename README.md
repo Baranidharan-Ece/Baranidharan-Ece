@@ -1,11 +1,8 @@
-from pathlib import Path
-import pypandoc
 
-md = r"""# ◈ Welcome to My GitHub Profile ◈
 
 <div align="center">
 
-# **Baranidharan S**
+# **BARANIDHARAN  S**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Java+Developer;AI+Enthusiast;MERN+Stack+Developer;DSA+Learner)](https://git.io/typing-svg)
 
