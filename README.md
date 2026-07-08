@@ -1,237 +1,116 @@
+from pathlib import Path
+import pypandoc
+
+md = r"""# ◈ Welcome to My GitHub Profile ◈
+
 <div align="center">
 
-# Hi 👋, I'm Baranidharan S
+# **Baranidharan S**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Java+Developer;Software+Engineering+Enthusiast;AI+%7C+MERN+Stack+%7C+DSA;Building+Scalable+Applications;Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Java+Developer;AI+Enthusiast;MERN+Stack+Developer;DSA+Learner)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Baranidharan-Ece&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+[![Gmail](https://img.shields.io/badge/Gmail-baranidharansnk%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:baranidharansnk@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/baranidharan-sanmugam-b6a3532a5/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/BARANIDHARAN-ECE/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/baranidharansnk1)
+[![GitHub](https://img.shields.io/badge/GitHub-Baranidharan--Ece-black?style=for-the-badge&logo=github)](https://github.com/Baranidharan-Ece)
+
+![](https://komarev.com/ghpvc/?username=Baranidharan-Ece&style=for-the-badge)
 
 </div>
 
 ---
 
-# 💫 About Me
+# ◆ About Me
 
-🎓 B.E. Electronics & Communication Engineering
-
-💻 Passionate Software Developer focused on Java, Full Stack Development and AI.
-
-🌱 Currently improving my skills in
-
-- Data Structures & Algorithms
-- MERN Stack
-- Artificial Intelligence
-- System Design
-
-🏆 Achievements
-
-- ✅ Solved **300+ LeetCode Problems**
-- ⭐ HackerRank **5★ Java**
-- 🔥 Active GitHub Developer
-- 🚀 Built AI-powered Agriculture Platform
+- B.E. Electronics & Communication Engineering
+- Passionate Java Developer and AI Enthusiast
+- Solved 300+ LeetCode Problems
+- 5★ HackerRank Java
+- Interested in MERN Stack, DSA and AI
 
 ---
 
-# 🚀 Tech Stack
-
-## Programming Languages
+# ◆ Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript"/>
 </p>
 
-## Frontend
+# ◆ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,github,vscode,postman"/>
 </p>
 
-## Backend
+# ◆ Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-## Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
-</p>
+| Project | Description |
+|---|---|
+| 🌾 **AGRISHIELD-AI** | AI-powered agriculture platform with crop, fertilizer and disease recommendation |
+| 📚 **DSA Master Repository** | Java DSA solutions organized by topic |
+| 🤖 **AI Projects** | AI Agents, LLM and automation experiments |
 
 ---
 
-# 📂 Featured Projects
+# ◆ Achievements
 
-## 🌾 AGRISHIELD-AI
-
-AI-powered Smart Agriculture Recommendation Platform
-
-### Features
-
-- Crop Recommendation
-- Fertilizer Recommendation
-- Disease Detection
-- Weather Integration
-- Modern MERN Architecture
-
-🔗 Repository
-
-https://github.com/Baranidharan-Ece/AGRISHIELD-AI
+- 🏆 300+ LeetCode Problems
+- ⭐ HackerRank Java 5★
+- 🚀 AI Project Developer
 
 ---
 
-## 📚 DSA Master Repository
-
-Topic-wise Java DSA Solutions
-
-Topics
-
-- Arrays
-- Strings
-- Linked List
-- Stack
-- Queue
-- Trees
-- Graphs
-- Dynamic Programming
-- Greedy
-- Sliding Window
-- Binary Search
-
-🔗 Repository
-
-https://github.com/Baranidharan-Ece
-
----
-
-## 🤖 AI Projects
-
-- AI Chatbots
-- Intelligent Agents
-- Machine Learning Applications
-
----
-
-# 🏆 Coding Profiles
+# ◆ GitHub Statistics
 
 <p align="center">
-
-<a href="https://leetcode.com/u/BARANIDHARAN-ECE/">
-<img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-5★%20Java-brightgreen?style=for-the-badge&logo=hackerrank"/>
-</a>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Baranidharan-Ece&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baranidharan-Ece&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
-# 📊 GitHub Statistics
+# ◆ GitHub Streak
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Baranidharan-Ece&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baranidharan-Ece&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=Baranidharan-Ece&theme=tokyonight"/>
 </p>
 
----
-
-# 🔥 GitHub Streak
+# ◆ Contribution Graph
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Baranidharan-Ece&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baranidharan-Ece&theme=tokyo-night"/>
-
 </p>
 
----
+# ◆ Current Focus
 
-# 🏅 GitHub Trophies
+- 🎯 Mastering DSA
+- ☕ Java Backend Development
+- 🤖 Artificial Intelligence
+- 🌐 MERN Stack
+- ☁ Cloud Computing
+
+# ◆ Popular Repositories
+
+- 🌾 AGRISHIELD-AI
+- 📚 DSA Master Repository
+- 🤖 AI Projects
+
+# ◆ Connect With Me
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Baranidharan-Ece&theme=onedark&row=2&column=4"/>
-
+<a href="mailto:baranidharansnk@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/baranidharan-sanmugam-b6a3532a5/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Baranidharan-Ece"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
----
-
-# ⚡ Current Focus
-
-```text
-🌱 Advanced DSA
-💻 Java Development
-🤖 Artificial Intelligence
-🚀 Full Stack Development
-☁ Cloud Computing
-```
-
----
-
-# 📌 Goals
-
-- Crack Product Based Companies
-- Become Software Engineer
-- Master System Design
-- Build AI Products
-- Contribute to Open Source
-
----
-
-# 🌐 Connect With Me
-
-<p>
-
-<a href="https://github.com/Baranidharan-Ece">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="your-linkedin-url">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://leetcode.com/u/BARANIDHARAN-ECE/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48"/>
-</a>
-
-</p>
-
----
-
-# 💡 Quote
-
-> "Consistency beats intensity. Write code, solve problems, and keep learning every day."
-
----
+> ## 💎 Quote
+> **"Of course I struggle, but I never quit."**
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
+![](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer)
 
 </div>
+"""
+out="/mnt/data/README.md"
+pypandoc.convert_text(md,"md",format="md",outputfile=out,extra_args=["--standalone"])
+print(out)
