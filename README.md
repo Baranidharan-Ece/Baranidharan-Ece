@@ -108,6 +108,3 @@
 
 </div>
 """
-out="/mnt/data/README.md"
-pypandoc.convert_text(md,"md",format="md",outputfile=out,extra_args=["--standalone"])
-print(out)
