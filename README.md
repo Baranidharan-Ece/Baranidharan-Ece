@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 <div align="center">
 
 # **BARANIDHARAN  S**
@@ -61,12 +52,6 @@
 - 🚀 AI Project Developer
 
 ---
-
-## ◆ GitHub Statistics
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Baranidharan-Ece&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baranidharan-Ece&layout=compact&theme=tokyonight"/>
-</p>
 
 ## ◆ GitHub Streak
 <p align="center">
