@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 # **BARANIDHARAN  S**
@@ -18,8 +16,7 @@
 
 ---
 
-# ◆ About Me
-
+## ◆ About Me
 - B.E. Electronics & Communication Engineering
 - Passionate Java Developer and AI Enthusiast
 - Solved 300+ LeetCode Problems
@@ -28,20 +25,19 @@
 
 ---
 
-# ◆ Programming Languages
-
+## ◆ Programming Languages
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript"/>
 </p>
 
-# ◆ Tech Stack
-
+## ◆ Tech Stack
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,github,vscode,postman"/>
 </p>
 
-# ◆ Featured Projects
+---
 
+## ◆ Featured Projects
 | Project | Description |
 |---|---|
 | 🌾 **AGRISHIELD-AI** | AI-powered agriculture platform with crop, fertilizer and disease recommendation |
@@ -50,49 +46,41 @@
 
 ---
 
-# ◆ Achievements
-
+## ◆ Achievements
 - 🏆 300+ LeetCode Problems
 - ⭐ HackerRank Java 5★
 - 🚀 AI Project Developer
 
 ---
 
-# ◆ GitHub Statistics
-
+## ◆ GitHub Statistics
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Baranidharan-Ece&show_icons=true&theme=tokyonight"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baranidharan-Ece&layout=compact&theme=tokyonight"/>
 </p>
 
-# ◆ GitHub Streak
-
+## ◆ GitHub Streak
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Baranidharan-Ece&theme=tokyonight"/>
 </p>
 
-# ◆ Contribution Graph
-
+## ◆ Contribution Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baranidharan-Ece&theme=tokyo-night"/>
 </p>
 
-# ◆ Current Focus
+---
 
+## ◆ Current Focus
 - 🎯 Mastering DSA
 - ☕ Java Backend Development
 - 🤖 Artificial Intelligence
 - 🌐 MERN Stack
 - ☁ Cloud Computing
 
-# ◆ Popular Repositories
+---
 
-- 🌾 AGRISHIELD-AI
-- 📚 DSA Master Repository
-- 🤖 AI Projects
-
-# ◆ Connect With Me
-
+## ◆ Connect With Me
 <p align="center">
 <a href="mailto:baranidharansnk@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/baranidharan-sanmugam-b6a3532a5/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;&nbsp;&nbsp;
@@ -107,4 +95,3 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer)
 
 </div>
-"""
