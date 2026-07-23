@@ -25,14 +25,26 @@
 
 ---
 
-## ◆ Programming Languages
+## 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,javascript"/>
+  <img src="https://skillicons.dev/icons?i=java,javascript,cs,html,css" />
 </p>
 
-## ◆ Tech Stack
+## 🚀 Software Development
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,github,vscode,postman"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git,github,docker,postman,vscode,vercel,n8n" />
+</p>
+
+## ⚡ Electronics & Embedded Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Solar%20Panel%20Testing-FFB300?style=for-the-badge&logo=solaredge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-1976D2?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-00ACC1?style=for-the-badge&logo=internetofthings&logoColor=white" />
+  <img src="https://img.shields.io/badge/PCB%20Design-43A047?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sensor%20Integration-8E24AA?style=for-the-badge&logo=sensu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electronic%20Circuit%20Design-D81B60?style=for-the-badge&logo=circuitverse&logoColor=white" />
+  <img src="https://img.shields.io/badge/CAN%20UART%20I2C%20SPI-546E7A?style=for-the-badge&logo=microchiptechnology&logoColor=white" />
 </p>
 
 ---
