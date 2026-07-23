@@ -32,7 +32,7 @@
 
 ## 🚀 Software Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git,github,docker,postman,vscode,vercel,n8n" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,postman,vscode,vercel,n8n" />
 </p>
 
 ## ⚡ Electronics & Embedded Systems
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/PCB%20Design-43A047?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
   <img src="https://img.shields.io/badge/Sensor%20Integration-8E24AA?style=for-the-badge&logo=sensu&logoColor=white" />
   <img src="https://img.shields.io/badge/Electronic%20Circuit%20Design-D81B60?style=for-the-badge&logo=circuitverse&logoColor=white" />
-  <img src="https://img.shields.io/badge/CAN%20UART%20I2C%20SPI-546E7A?style=for-the-badge&logo=microchiptechnology&logoColor=white" />
+
 </p>
 
 ---
