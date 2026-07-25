@@ -1,6 +1,8 @@
 <div align="center">
 
-# **BARANIDHARAN  S**
+![Banner](dev_banner_final_v3.png)
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Electronics+Enginner;Java+Developer;AI+Enthusiast;MERN+Stack+Developer;DSA+Learner)](https://git.io/typing-svg)
 
@@ -17,6 +19,7 @@
 ---
 
 ## ◆ About Me
+
 - B.E. Electronics & Communication Engineering
 - Passionate Java Developer and AI Enthusiast
 - Solved 300+ LeetCode Problems
@@ -26,11 +29,13 @@
 ---
 
 ## 💻 Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=java,javascript,cs,html,css" />
 </p>
 
 ## 🚀 Software Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,postman,vscode,vercel,n8n" />
 </p>
@@ -44,12 +49,12 @@
   <img src="https://img.shields.io/badge/PCB%20Design-43A047?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
   <img src="https://img.shields.io/badge/Sensor%20Integration-8E24AA?style=for-the-badge&logo=sensu&logoColor=white" />
   <img src="https://img.shields.io/badge/Electronic%20Circuit%20Design-D81B60?style=for-the-badge&logo=circuitverse&logoColor=white" />
-
 </p>
 
 ---
 
 ## ◆ Featured Projects
+
 | Project | Description |
 |---|---|
 | 🌾 **AGRISHIELD-AI** | AI-powered agriculture platform with crop, fertilizer and disease recommendation |
@@ -59,6 +64,7 @@
 ---
 
 ## ◆ Achievements
+
 - 🏆 300+ LeetCode Problems
 - ⭐ HackerRank Java 5★
 - 🚀 AI Project Developer
@@ -66,11 +72,13 @@
 ---
 
 ## ◆ GitHub Streak
+
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Baranidharan-Ece&theme=tokyonight"/>
 </p>
 
 ## ◆ Contribution Graph
+
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baranidharan-Ece&theme=tokyo-night"/>
 </p>
@@ -78,6 +86,7 @@
 ---
 
 ## ◆ Current Focus
+
 - 🎯 Mastering DSA
 - ☕ Java Backend Development
 - 🤖 Artificial Intelligence
@@ -87,6 +96,7 @@
 ---
 
 ## ◆ Connect With Me
+
 <p align="center">
 <a href="mailto:baranidharansnk@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/baranidharan-sanmugam-b6a3532a5/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;&nbsp;&nbsp;
