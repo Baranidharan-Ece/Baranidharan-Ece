@@ -5,9 +5,7 @@
 
 
 ### 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hey+there!+Welcome+to+my+profile)](https://git.io/typing-svg)
-
-[![Gmail](https://img.shields.io/badge/Gmail-baranidharansnk%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:baranidharansnk@gmail.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=26&duration=3000&pause=1000&color=F7D13D&center=true&vCenter=true&width=800&lines=Hey+there!+Welcome+to+my+profile)](https://git.io/typing-svg)[![Gmail](https://img.shields.io/badge/Gmail-baranidharansnk%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:baranidharansnk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/baranidharan-sanmugam-b6a3532a5/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/BARANIDHARAN-ECE/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/baranidharansnk1)
