@@ -1,7 +1,8 @@
 <div align="center">
 
-![Banner](dev_banner_final_v3.png)
-
+<p align="center">
+  <img src="ChatGPT Image Jul 31, 2026, 11_18_43 PM.png" width="100%" alt="Banner"/>
+</p>
 
 
 ### 👋
