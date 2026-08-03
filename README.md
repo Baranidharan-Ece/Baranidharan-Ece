@@ -66,11 +66,20 @@
 
 ## ◆ Achievements
 
-- 🏆 300+ LeetCode Problems
-- ⭐ HackerRank Java 5★
-- 🚀 AI Project Developer
+## 🏆 Achievements
+
+🏅 **300+ LeetCode Problems Solved**
+
+⭐ **5★ HackerRank (Java)**
+
+🤖 **AI & IoT Project Developer**
+
+🎓 **B.E. Electronics & Communication Engineering**
 
 ---
+
+
+
 
 ## ◆ GitHub Streak
 
@@ -81,7 +90,7 @@
 ## ◆ Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Baranidharan-Ece&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Baranidharan-Ece&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -117,23 +126,36 @@
 
 ---
 
-<div align="center">
-
-# 🙏 Thank You for Visiting My Profile!
-
-⭐ If you found my projects interesting, feel free to **Star** the repositories.
-
-💼 Let's connect and build amazing projects together!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Baranidharan-Ece)
-
-
+---
 
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer)
+# ⭐ Thank You for Visiting My Profile ⭐
+
+### 💙 *Keep Learning • Keep Building • Keep Growing*
+
+If you enjoyed my projects,
+
+⭐ **Star my repositories**
+
+🤝 **Let's connect and collaborate**
+
+<a href="mailto:baranidharansnk@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/baranidharan-sanmugam-b6a3532a5/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Baranidharan-Ece">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
+
+![](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer)
+
+
 
 </div>
