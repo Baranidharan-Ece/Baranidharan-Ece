@@ -104,11 +104,36 @@
 <a href="https://github.com/Baranidharan-Ece"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
-> ## 💎 Quote
-> **"Of course I struggle, but I never quit."**
+<div align="center">
+
+# 💪 **"Of course I struggle, but I never quit."**
+
+### *Consistency beats talent when talent doesn't stay consistent.*
+
+</div>
+
+
+
+
+---
+
+<div align="center">
+
+# 🙏 Thank You for Visiting My Profile!
+
+⭐ If you found my projects interesting, feel free to **Star** the repositories.
+
+💼 Let's connect and build amazing projects together!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Baranidharan-Ece)
+
+
 
 <div align="center">
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer)
+
+</div>
 
 </div>
