@@ -11,6 +11,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/BARANIDHARAN-ECE/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/baranidharansnk1)
 [![GitHub](https://img.shields.io/badge/GitHub-Baranidharan--Ece-black?style=for-the-badge&logo=github)](https://github.com/Baranidharan-Ece)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Baranidharan--Ece-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://baranidharan-ece.github.io/PORTFOLIO/)
 
 ![](https://komarev.com/ghpvc/?username=Baranidharan-Ece&style=for-the-badge)
 
