@@ -79,14 +79,12 @@
 
 ---
 
+### GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Baranidharan-Ece&theme=dark&hide_border=true)
 
 
 
-## ◆ GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Baranidharan-Ece&theme=tokyonight&hide_border=true" />
-</p>
 
 ## ◆ Contribution Graph
 
