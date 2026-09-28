@@ -89,7 +89,11 @@
 ## ◆ Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Baranidharan-Ece&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true"/>
+  <img
+    src="https://raw.githubusercontent.com/Baranidharan-Ece/Baranidharan-Ece/output/activity-graph.svg"
+    alt="Baranidharan's GitHub public activity graph"
+    width="100%"
+  />
 </p>
 
 ---
