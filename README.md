@@ -55,15 +55,78 @@
 
 ---
 
-## ◆ Featured Projects
 
-| Project | Description |
-|---|---|
-| 🌾 **AGRISHIELD-AI** | AI-powered agriculture platform with crop, fertilizer and disease recommendation |
-| 📚 **DSA Master Repository** | Java DSA solutions organized by topic |
-| 🤖 **AI Projects** | AI Agents, LLM and automation experiments |
+## 🚀 Featured Projects
 
----
+<p align="center">
+  <i>A collection of my work in Software Development, Artificial Intelligence, IoT, DSA, and Automation.</i>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌾 AGRISHIELD-AI</h3>
+      <p>AI-powered smart agriculture platform for crop, fertilizer, and plant disease recommendations using machine learning.</p>
+      <p><b>Tech:</b> React, Node.js, Flask, MongoDB, TensorFlow</p>
+      <p><a href="https://github.com/Baranidharan-Ece/AGRISHIELD-AI">🔗 View Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 DSA Master Repository</h3>
+      <p>A structured collection of Java problem-solving solutions, covering fundamental concepts to advanced data structures and algorithms.</p>
+      <p><b>Tech:</b> Java, DSA, Problem Solving</p>
+      <p><a href="https://github.com/Baranidharan-Ece">🔗 View Repositories</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 N8N-FlowForge</h3>
+      <p>Workflow automation integrating AI agents, Telegram bots, and Google Sheets to automate repetitive tasks and data handling.</p>
+      <p><b>Tech:</b> n8n, Gemini API, JavaScript, Telegram, Google Sheets</p>
+      <p><a href="https://github.com/Baranidharan-Ece">🔗 View Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💤 Sleep Apnea IoT</h3>
+      <p>An IoT-based health monitoring system for tracking SpO₂, heart rate, and respiration with real-time data monitoring.</p>
+      <p><b>Tech:</b> ESP32, Arduino Nano, IoT, ThingSpeak</p>
+      <p><a href="https://github.com/Baranidharan-Ece">🔗 View Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💧 IoT Water Distribution System</h3>
+      <p>A smart water management solution using sensor-based monitoring and automated valve control to reduce water wastage.</p>
+      <p><b>Tech:</b> Arduino, ESP8266, Blynk, Sensors, Embedded C</p>
+      <p><a href="https://github.com/Baranidharan-Ece">🔗 View Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ GITNOVA</h3>
+      <p>An AI-powered GitHub profile analyzer that evaluates repositories, programming skills, and developer activity.</p>
+      <p><b>Tech:</b> React, Node.js, Express, GitHub API, Gemini API</p>
+      <p><a href="https://github.com/Baranidharan-Ece">🔗 View Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📍 Real-Time Public Tracking</h3>
+      <p>An IoT and GPS-based tracking project designed to collect and display live location information.</p>
+      <p><b>Tech:</b> IoT, GPS, Arduino, Embedded Systems</p>
+      <p><a href="https://github.com/Baranidharan-Ece">🔗 View Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 AI & Automation Experiments</h3>
+      <p>A collection of experiments with AI agents, LLM integrations, API-based applications, and task automation.</p>
+      <p><b>Tech:</b> Python, JavaScript, APIs, AI, Automation</p>
+      <p><a href="https://github.com/Baranidharan-Ece">🔗 Explore GitHub</a></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Baranidharan-Ece?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
+  </a>
+</p>
+
 
 ## ◆ Achievements
 
