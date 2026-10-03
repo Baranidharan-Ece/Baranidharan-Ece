@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="310" viewBox="0 0 900 310">
+<rect width="100%" height="100%" rx="18" fill="#0d1117"/>
+<text x="55" y="30" fill="#c9d1d9" font-size="19" font-family="Arial" font-weight="bold">PUBLIC GITHUB ACTIVITY</text>
+<text x="55" y="47" fill="#8b949e" font-size="11" font-family="Arial">Last 30 days · Event-based activity</text>
+<line x1="55" y1="50.0" x2="875" y2="50.0" stroke="#30363d" stroke-dasharray="4 5"/>
+<text x="43" y="54.0" fill="#8b949e" font-size="11" text-anchor="end" font-family="Arial">7</text>
+<line x1="55" y1="101.2" x2="875" y2="101.2" stroke="#30363d" stroke-dasharray="4 5"/>
+<text x="43" y="105.2" fill="#8b949e" font-size="11" text-anchor="end" font-family="Arial">5</text>
+<line x1="55" y1="152.5" x2="875" y2="152.5" stroke="#30363d" stroke-dasharray="4 5"/>
+<text x="43" y="156.5" fill="#8b949e" font-size="11" text-anchor="end" font-family="Arial">4</text>
+<line x1="55" y1="203.8" x2="875" y2="203.8" stroke="#30363d" stroke-dasharray="4 5"/>
+<text x="43" y="207.8" fill="#8b949e" font-size="11" text-anchor="end" font-family="Arial">2</text>
+<line x1="55" y1="255.0" x2="875" y2="255.0" stroke="#30363d" stroke-dasharray="4 5"/>
+<text x="43" y="259.0" fill="#8b949e" font-size="11" text-anchor="end" font-family="Arial">0</text>
+<polygon points="55,255 55.0,108.6 83.3,196.4 111.6,225.7 139.8,255.0 168.1,255.0 196.4,255.0 224.7,255.0 252.9,255.0 281.2,255.0 309.5,255.0 337.8,255.0 366.0,255.0 394.3,255.0 422.6,255.0 450.9,255.0 479.1,255.0 507.4,255.0 535.7,255.0 564.0,255.0 592.2,255.0 620.5,255.0 648.8,255.0 677.1,255.0 705.3,255.0 733.6,79.3 761.9,255.0 790.2,137.9 818.4,50.0 846.7,225.7 875.0,255.0 875,255" fill="#238636" opacity="0.18"/>
+<polyline points="55.0,108.6 83.3,196.4 111.6,225.7 139.8,255.0 168.1,255.0 196.4,255.0 224.7,255.0 252.9,255.0 281.2,255.0 309.5,255.0 337.8,255.0 366.0,255.0 394.3,255.0 422.6,255.0 450.9,255.0 479.1,255.0 507.4,255.0 535.7,255.0 564.0,255.0 592.2,255.0 620.5,255.0 648.8,255.0 677.1,255.0 705.3,255.0 733.6,79.3 761.9,255.0 790.2,137.9 818.4,50.0 846.7,225.7 875.0,255.0" fill="none" stroke="#3fb950" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="55.0" cy="108.6" r="3.5" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="83.3" cy="196.4" r="3.5" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="111.6" cy="225.7" r="3.5" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="733.6" cy="79.3" r="3.5" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="790.2" cy="137.9" r="3.5" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="818.4" cy="50.0" r="3.5" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="846.7" cy="225.7" r="3.5" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
+<text x="55.0" y="287" fill="#8b949e" font-size="11" text-anchor="middle" font-family="Arial">Sep 04</text>
+<text x="224.7" y="287" fill="#8b949e" font-size="11" text-anchor="middle" font-family="Arial">Sep 10</text>
+<text x="422.6" y="287" fill="#8b949e" font-size="11" text-anchor="middle" font-family="Arial">Sep 17</text>
+<text x="620.5" y="287" fill="#8b949e" font-size="11" text-anchor="middle" font-family="Arial">Sep 24</text>
+<text x="875.0" y="287" fill="#8b949e" font-size="11" text-anchor="middle" font-family="Arial">Oct 03</text>
+<text x="875" y="30" fill="#3fb950" font-size="16" text-anchor="end" font-family="Arial" font-weight="bold">26 events</text>
+</svg>
